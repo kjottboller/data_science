@@ -8,4 +8,4 @@ From the [SkillFactory Data Science course] (https://github.com/kjottboller/data
 * [Проект 1.] ()
 * [Проект 2.] ()
 
-## Ссылки на резюме
+# Ссылки на резюме
