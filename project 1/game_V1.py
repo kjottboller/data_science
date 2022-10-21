@@ -2,7 +2,7 @@
 
 import numpy as np
 
-number = np.random.randint(1, 100) # загадываем число
+number = np.random.randint(1, 100)
 count = 0 # количество попыток
 
 while True:
@@ -15,5 +15,5 @@ while True:
         print("Число должно быть больше!")
     else:
         print(f"Вы угадали число за {count} попыток! Это число = {number}")
-        break # конец игры и выход из цикла
+        break
         
