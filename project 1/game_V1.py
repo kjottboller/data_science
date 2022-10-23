@@ -1,4 +1,5 @@
-## GUESS THE NUMBER??? game
+# Guess the number game
+# A computer guessing n choosing a number
 
 import numpy as np
 
