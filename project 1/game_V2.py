@@ -39,6 +39,4 @@ def own_algorithm(random_predict):
     return(score)
 print(f"Number of attempts (2): {random_predict(10)}")
 
-
-
 print('--------------------')
